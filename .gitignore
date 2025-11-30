@@ -1,0 +1,19 @@
+# Ambiente virtual
+venv/
+__pycache__/
+*.pyc
+
+# Dados e saídas
+*.csv
+*.json
+output/
+
+# Configurações do VS Code
+.vscode/
+
+# Outros arquivos temporários
+*.log
+.DS_Store
+
+data/
+*.csv
