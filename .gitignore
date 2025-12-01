@@ -5,7 +5,6 @@ __pycache__/
 
 # Dados e saídas
 *.csv
-*.json
 output/
 
 # Configurações do VS Code
