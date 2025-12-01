@@ -3,10 +3,6 @@ venv/
 __pycache__/
 *.pyc
 
-# Dados e saídas
-*.csv
-output/
-
 # Configurações do VS Code
 .vscode/
 
@@ -14,5 +10,6 @@ output/
 *.log
 .DS_Store
 
+# Arquivo .cvs
 data/
 *.csv
